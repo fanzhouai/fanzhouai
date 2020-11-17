@@ -14,11 +14,11 @@ I'm a Ph.D candidate in CS dept. at Laval University. supervised by Prof.Chiab-d
 
 [4] Fan Zhou, Brahim Chaib-draa and Boyu Wang. "Multi-task Learning by Leveraging the Semantic Information". Under review by AAAI 2021 [paper][codes]
 
-[3] Fan Zhou, Zhuqing Jiang, Changjian Shui, Boyu Wang and Brahim Chaib-draa. ''Domain Generalization via Optimal Transport with MetricSimilarity Learning'' NeuroComputing [[paper]](https://arxiv.org/abs/2007.10573)[codes]
+[3] Fan Zhou, Zhuqing Jiang, Changjian Shui, Boyu Wang and Brahim Chaib-draa. ''Domain Generalization via Optimal Transport with MetricSimilarity Learning'' NeuroComputing [[paper]](https://arxiv.org/abs/2007.10573) [codes]
 
-[2] Changjian Shui, Fan Zhou, Christian Gagné, and Boyu Wang. "Deep Active Learning: Unified and Principled Method for Query and Training," International Conference on Artificial Intelligence and Statistics (AISTATS), 2020.[[paper]](http://proceedings.mlr.press/v108/shui20a/shui20a.pdf)[codes](https://github.com/cjshui/WAAL)
+[2] Changjian Shui, Fan Zhou, Christian Gagné, and Boyu Wang. "Deep Active Learning: Unified and Principled Method for Query and Training," International Conference on Artificial Intelligence and Statistics (AISTATS), 2020.[[paper]](http://proceedings.mlr.press/v108/shui20a/shui20a.pdf) [codes](https://github.com/cjshui/WAAL)
 
-[1] Fan Zhou, Changjian Shui, Mahdieh Abbasi, Louis-Émile Robitaille, Boyu Wang and Christian Gagné. "Task similarity estimation through adversarialmultitask neural network". Accepted by IEEE Transcations on Neural Networks and Learning Systems (TNNLS).[[paper]](ieeexplore.ieee.org/document/9241847)[[codes]](https://github.com/cjshui/AMTNN)
+[1] Fan Zhou, Changjian Shui, Mahdieh Abbasi, Louis-Émile Robitaille, Boyu Wang and Christian Gagné. "Task similarity estimation through adversarialmultitask neural network". Accepted by IEEE Transcations on Neural Networks and Learning Systems (TNNLS).[[paper]](ieeexplore.ieee.org/document/9241847) [[codes]](https://github.com/cjshui/AMTNN)
 
 
 
