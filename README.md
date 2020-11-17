@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Fan Zhou 
 
+I'm a
 You can use the [editor on GitHub](https://github.com/fanzhouai/fzhou.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
+### About me
+
+I'm a Ph.D candidate in CS dept. at Laval University. supervised by Prof.Chiab-draa and Prof. Boyu Wang.  My research areas includes transfer learning, domain adaptation and multi-task learning. Prior to my Ph.D. program, I was working on vehicle engineering especially on electrical vehicles control supervised by Prof.Shichuang Yang and Prof. Bin Xu in Beihang University.
+
 
 ### Markdown
 
