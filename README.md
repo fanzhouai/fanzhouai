@@ -1,14 +1,6 @@
 ## Fan Zhou 
 
-I'm a
-You can use the [editor on GitHub](https://github.com/fanzhouai/fzhou.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-
-### About me
-
-I'm a Ph.D candidate in CS dept. at Laval University. supervised by Prof.Chiab-draa and Prof. Boyu Wang.  My research areas includes transfer learning, domain adaptation and multi-task learning. Prior to my Ph.D. program, I was working on vehicle engineering especially on electrical vehicles control supervised by Prof.Shichuang Yang and Prof. Bin Xu in Beihang University.
+I'm a Ph.D candidate in [CS dept.] at [Laval University], supervised by [Prof.Chiab-draa](https://www2.ift.ulaval.ca/~chaib/) and [Prof. Boyu Wang](https://sites.google.com/site/borriewang/home?authuser=0).  My research areas includes transfer learning, domain adaptation and multi-task learning. Prior to my Ph.D. program, I was working on vehicle engineering especially on electrical vehicles control supervised by [Prof.Shichuang Yang](http://shi.buaa.edu.cn/09007/zh_CN/index.htmm) and [Prof. Bin Xu](http://shi.buaa.edu.cn/07312/zh_CN/index.htm) in [Beihang University](https://www.buaa.edu.cn/).
 
 ### Publications
 
