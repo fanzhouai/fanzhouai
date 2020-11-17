@@ -4,12 +4,11 @@ I'm a Ph.D candidate in [CS dept.] at [Laval University], supervised by [Prof.Ch
 
 ### Publications
 
+[6] **Fan Zhou**, Brahim Chaib-draa and Boyu Wang. "Multi-task Learning by Leveraging the Semantic Information". Under review [[paper]][[codes]]
 
-[6] **Fan Zhou**, Brahim Chaib-draa and Boyu Wang. "Multi-task Learning by Leveraging the Semantic Information". Under review [paper][codes]
+[5] Changjian Shui, Qi Chen, Jun Wen, **Fan Zhou**, Christian Gagné and Boyu Wang."Beyond H-Divergence: Domain Adaptation Theory With Jensen-Shannon Divergence", Under review [[paper]](https://arxiv.org/abs/2007.15567) [[codes]]
 
-[5] Changjian Shui, Qi Chen, Jun Wen, **Fan Zhou**, Christian Gagné and Boyu Wang."Beyond H-Divergence: Domain Adaptation Theory With Jensen-Shannon Divergence", Under review [[paper]](https://arxiv.org/abs/2007.15567) [codes]
-
-[4] **Fan Zhou**, Changjian Shui, Bincheng Huang, Boyu Wang and Brahim Chaib-draa. "Discriminative Active Learning for Domain Adaptation''. Under review [paper](https://arxiv.org/abs/2005.11653) [codes]
+[4] **Fan Zhou**, Changjian Shui, Bincheng Huang, Boyu Wang and Brahim Chaib-draa. "Discriminative Active Learning for Domain Adaptation''. Under review [[paper]](https://arxiv.org/abs/2005.11653) [codes]
 
 [3] **Fan Zhou**, Zhuqing Jiang, Changjian Shui, Boyu Wang and Brahim Chaib-draa. ''Domain Generalization via Optimal Transport with MetricSimilarity Learning'' **NeuroComputing** [[paper]](https://arxiv.org/abs/2007.10573) [[codes]](https://github.com/fanzhouai/WADG)
 
