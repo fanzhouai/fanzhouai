@@ -4,7 +4,7 @@ I'm a Ph.D candidate in [CS dept.] at [Laval University], supervised by [Prof.Ch
 
 ### Publications
 
-[6] **Fan Zhou**, Brahim Chaib-draa and Boyu Wang. "Multi-task Learning by Leveraging the Semantic Information". Under review [[paper]][[codes]]
+[6] **Fan Zhou**, Brahim Chaib-draa and Boyu Wang. "Multi-task Learning by Leveraging the Semantic Information". Under review [paper][codes]
 
 [5] Changjian Shui, Qi Chen, Jun Wen, **Fan Zhou**, Christian Gagné and Boyu Wang."Beyond H-Divergence: Domain Adaptation Theory With Jensen-Shannon Divergence", Under review [[paper]](https://arxiv.org/abs/2007.15567) [[codes]]
 
